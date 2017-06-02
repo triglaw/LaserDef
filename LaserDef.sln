@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{786F6BAB-A5BC-D4E6-FB85-1175EC48361C}") = "LaserDef", "Assembly-CSharp.csproj", "{EDBAB3F7-2484-8EB9-7D7C-97C027260A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBAB3F7-2484-8EB9-7D7C-97C027260A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBAB3F7-2484-8EB9-7D7C-97C027260A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBAB3F7-2484-8EB9-7D7C-97C027260A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBAB3F7-2484-8EB9-7D7C-97C027260A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
